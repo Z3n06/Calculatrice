@@ -32,3 +32,12 @@ Cette calculatrice simple est développée en Python en utilisant le module Tkin
 5. Utilisez le bouton "C" pour effacer l'expression en cours.
 
 En cas d'erreur, une boîte de dialogue apparaîtra avec un message d'erreur.
+
+## Auteur
+[Zeno / Ilyes]
+
+N'hésitez pas à contribuer, signaler des problèmes ou suggérer des améliorations !
+
+
+```Assurez-vous de personnaliser les sections comme "Prérequis", "Installation", "Utilisation", et "Auteur" avec vos propres informations.
+
