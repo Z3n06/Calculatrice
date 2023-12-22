@@ -18,3 +18,17 @@ Cette calculatrice simple est développée en Python en utilisant le module Tkin
 
    ```bash
    git clone https://github.com/votre-utilisateur/calculatrice-python.git
+
+## Utilisation
+
+1. Lancez le script comme indiqué ci-dessus.
+
+2. L'interface de la calculatrice s'ouvrira.
+
+3. Utilisez les boutons numériques et opérationnels pour construire votre expression.
+
+4. Appuyez sur le bouton "=" pour obtenir le résultat.
+
+5. Utilisez le bouton "C" pour effacer l'expression en cours.
+
+En cas d'erreur, une boîte de dialogue apparaîtra avec un message d'erreur.
