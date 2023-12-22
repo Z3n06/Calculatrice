@@ -35,6 +35,6 @@ En cas d'erreur, une boîte de dialogue apparaîtra avec un message d'erreur.
 N'hésitez pas à contribuer, signaler des problèmes ou suggérer des améliorations !
 
 
-```bash
-Assurez-vous de personnaliser les sections comme "Prérequis", "Installation", "Utilisation", et "Auteur" avec vos propres informations.
+
+- Assurez-vous de personnaliser les sections comme "Prérequis", "Installation", "Utilisation", et "Auteur" avec vos propres informations.
 
